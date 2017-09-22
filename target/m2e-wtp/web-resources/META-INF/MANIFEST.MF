@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootStu
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: turkeymz
+Implementation-Vendor-Id: com.turkeymz
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootSt
+ u/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

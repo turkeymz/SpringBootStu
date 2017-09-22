@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serviceMethod>
+<!--
+ 	<method type = "json发送类型" bean = "Spring注册bean名" method = "方法名" label="备注"/>
+ -->
+	<method type = "helloWorld" bean = "serviceExample" method = "helloWorld" label="登录"/>
+</serviceMethod>
